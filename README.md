@@ -1,7 +1,8 @@
 Hi St Marg's Project Group 2! 
 How do we start going about your project for today's lesson? 
 You have clone this workspace in your Cloud 9, and Angular, Bootstrap, Jquery and Ui-router have already been installed for you.
-We could use a Semantic-Ui framework to beef up your Polling Site. So, what is Semantic-Ui? It is a modern front-end development framework, powered by LESS and jQuery. It has a sleek, subtle, and flat design look that provides a lightweight user experience. Hence, I think it would match your theme for the Polling Site.
+We could use a Semantic-Ui framework to beef up your Polling Site. 
+<b> So, what is Semantic-Ui?  </b> It is a modern front-end development framework, powered by LESS and jQuery. It has a sleek, subtle, and flat design look that provides a lightweight user experience. Hence, I think it would match your theme for the Polling Site.
 
 1) Install 'Semantic-UI' By typing this line into your Terminal: 
     bower install semantic-ui 
