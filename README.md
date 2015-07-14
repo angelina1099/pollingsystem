@@ -4,7 +4,7 @@ You have clone this workspace in your Cloud 9, and Angular, Bootstrap, Jquery an
 We could use a Semantic-Ui framework to beef up your Polling Site. 
 <b> So, what is Semantic-Ui?  </b> It is a modern front-end development framework, powered by LESS and jQuery. It has a sleek, subtle, and flat design look that provides a lightweight user experience. Hence, I think it would match your theme for the Polling Site.
 
-1) Install 'Semantic-UI' By typing this line into your Terminal: 
+#1) Install 'Semantic-UI' By typing this line into your Terminal: 
     bower install semantic-ui 
 Then, wait for it to download the files into your Workspace. Check through your "index.html" file for its linking css & script tags, double check its directory whether it is correct: 
     <link rel="stylesheet" type="text/css" href="bower_components/semantic-ui/dist/semantic.css">
